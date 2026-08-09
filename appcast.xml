@@ -3,6 +3,21 @@
     <channel>
         <title>FlowShizz</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Sun, 09 Aug 2026 12:14:14 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://updates.flowshizz.com/FlowShizz-1.3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://updates.flowshizz.com/FlowShizz-1.3.dmg" length="5956374" type="application/octet-stream" sparkle:edSignature="m7C/eRqCjTLm3w8/yO8Rv26PpaySNwKfU4dahuBqCKUcrkk9FZLKt2zXVXFv93tyMTF3+KMFRpu556jFoDtuDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://updates.flowshizz.com/FlowShizz5-4.delta" sparkle:deltaFrom="4" length="93554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PEfDTUSfa2i9fEbUrN3z48NSec25IX1k79E/2nc2Zf9q3iGrrALwHuJCf0UnVVsBGDbY0pKTiIAtw8kAe6tvCg=="/>
+                <enclosure url="https://updates.flowshizz.com/FlowShizz5-3.delta" sparkle:deltaFrom="3" length="164914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5y2IDtkxhJph7+IXOX1UJGlr5WfqKptVw48FGMq+1gcxyewNuC445WIoUsn0Y3H9NBvp45g8iiRnIt32gWrBDw=="/>
+                <enclosure url="https://updates.flowshizz.com/FlowShizz5-2.delta" sparkle:deltaFrom="2" length="251710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M0xEhfo8IhkLAMcxkQ6+H35TuCVSVp5QJ6DrMXgtEdqa4Yem1fmx6Of/4P001Np+DX7aLCJjhXk0Tqe/X2utDw=="/>
+                <enclosure url="https://updates.flowshizz.com/FlowShizz5-1.delta" sparkle:deltaFrom="1" length="270674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RfgRpVcpjf0wHruUhKZYC7PlbL2Vajp8vd2l06TlBBLq9/CIuzgSpY9+0yo8VTxXAqFAgKmUA/uwpW1OI6PuDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Sun, 09 Aug 2026 10:00:56 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -27,18 +42,6 @@
             <sparkle:deltas>
                 <enclosure url="https://updates.flowshizz.com/FlowShizz3-2.delta" sparkle:deltaFrom="2" length="216778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fhHYWo51MV/nVPAjowhonoHpH6ZT23jk8eYNM0L3/aII8Fh0rtOY856U3aoIvD1a0eweShzqQmxmbJ7KW+ckBQ=="/>
                 <enclosure url="https://updates.flowshizz.com/FlowShizz3-1.delta" sparkle:deltaFrom="1" length="240562" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ChSvAyfpHFrwLpUJ7x/Lb6TN129h7FJMqcVtxd1Ws4l0Nt73khPIEa6fC2n1uQDzNAKcqX/xCTBd+BrJlXsbDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Thu, 30 Jul 2026 21:55:51 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://updates.flowshizz.com/FlowShizz-1.0.1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://updates.flowshizz.com/FlowShizz-1.0.1.dmg" length="5923837" type="application/octet-stream" sparkle:edSignature="cASRY2XIPaVxrRQWF3tcB5vyVU9Cs2pfobr1DExgRJWWbAfzV4OTM2TffU8C/PSRbDAi5E+deItP4bsTQAWPCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://updates.flowshizz.com/FlowShizz2-1.delta" sparkle:deltaFrom="1" length="150522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="187JiW2rkGDjTIRH+vywCHAhjZGz7laqkv5Q0GL8a0JpJsvAL8zM9KJg3L8R/NmLjAiAqqwbSoDAILwDSkFYAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
