@@ -1,0 +1,33 @@
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { font: 13px -apple-system, system-ui, sans-serif; color: #1a1a1a; margin: 12px 14px; line-height: 1.5; }
+  h2 { font-size: 15px; margin: 0 0 4px; }
+  h3 { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: #FF6F5E; margin: 14px 0 6px; }
+  ul { margin: 0; padding-left: 18px; }
+  li { margin-bottom: 7px; }
+  .note { color: #666; font-size: 12px; margin-top: 14px; }
+</style>
+</head>
+<body>
+<h2>FlowShizz 1.7</h2>
+
+<h3>A steadier check on website blocking</h3>
+<ul>
+  <li>1.6 renewed the permission that lets FlowShizz block websites every time it
+      updated. That turned out to be both unnecessary and risky — a working setup
+      survives an update perfectly well, and renewing it needlessly could leave
+      you with none at all.</li>
+  <li>FlowShizz now simply <strong>checks whether it works</strong> when it
+      starts, and only repairs the permission if it doesn't answer. A setup
+      that's fine is left alone.</li>
+  <li>If it can't be repaired, FlowShizz tells you and asks for your password
+      when a block starts, so blocks are always enforced — and it tries once,
+      rather than fiddling with the setting every time you open it.</li>
+</ul>
+
+<p class="note">Blocking is free and always will be. Pro only covers blocking your
+iPhone and your Mac together.</p>
+</body>
+</html>
