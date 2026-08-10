@@ -1,0 +1,35 @@
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { font: 13px -apple-system, system-ui, sans-serif; color: #1a1a1a; margin: 12px 14px; line-height: 1.5; }
+  h2 { font-size: 15px; margin: 0 0 4px; }
+  h3 { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: #FF6F5E; margin: 14px 0 6px; }
+  ul { margin: 0; padding-left: 18px; }
+  li { margin-bottom: 7px; }
+  .note { color: #666; font-size: 12px; margin-top: 14px; }
+</style>
+</head>
+<body>
+<h2>FlowShizz 1.5</h2>
+
+<h3>Important: website blocking could stop working after an update</h3>
+<ul>
+  <li><strong>Please install this one.</strong> Updating FlowShizz could quietly
+      break the part of it that blocks websites. Apps still got blocked and the
+      countdown still ran, so there was nothing to notice — but websites were
+      left open.</li>
+  <li>The cause: the background component that edits your system's website list
+      needs permission tied to the exact copy of the app that asked for it, and
+      replacing the app during an update left that permission pointing at the old
+      copy. FlowShizz now renews it whenever it updates, and checks that the
+      component actually answers.</li>
+  <li><strong>If it ever can't</strong>, FlowShizz now says so plainly and asks
+      for your password instead, so a block is never left unenforced. It will no
+      longer tell you a block is running when part of it isn't.</li>
+</ul>
+
+<p class="note">Blocking is free and always will be. Pro only covers blocking your
+iPhone and your Mac together.</p>
+</body>
+</html>
